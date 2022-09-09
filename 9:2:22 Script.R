@@ -558,11 +558,3 @@ for (i in 1:nrow(combos)) {
 sum(combos$prize * combos$prob)
 
 
-
-
-
-
-
-
-
-
